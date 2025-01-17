@@ -1,6 +1,0 @@
-SELECT TOP (1000) [continent]
-      ,[location]
-      ,[population]
-      ,[DeathPercentage]
-      ,[VaccPercentage]
-  FROM [PortfolioProject].[dbo].[DeathAndVaccVsPop]
