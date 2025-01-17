@@ -5,6 +5,7 @@ Covid 19 Data Exploration
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 */
+
 -- Show all the data from the CovidDeaths table and sort by location, then by date
 Select *
 From PortfolioProject..CovidDeaths
